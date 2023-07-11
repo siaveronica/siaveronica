@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**siaveronica/siaveronica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm sia from Indonesia, as someone who is always passionate for learning more about tech and life, i'm continiously enjoying to improve myself. Recently i'm really enjoy in learning languange and framework Python, and currently into a FMachine Learning Engineering career path. I also ui, ux, and design in general.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📝 ***Feel free to contact me. 
+<br>
+<br>
+[![Linkedin]([https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/](https://www.linkedin.com/in/nathasya-veronica-b41067108/))
+<br>
+[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/nathasyaveronic1)
+[![Codewars](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/siaveronica)
+<!-- 
